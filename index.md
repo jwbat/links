@@ -1,12 +1,14 @@
-Markdown Guide  
-[markdown guide](https://www.markdownguide.org)  
+[Notes](notes.md)
 
-Fred Baptiste - Python, Math  
-[Fred Baptiste](https://www.youtube.com/@mathbyteacademy)
+[Markdown Guide](https://www.markdownguide.org)  
 
-Richard Southwell - Category Theory  
+[Fred Baptiste](https://www.youtube.com/@mathbyteacademy)  
+Python, Math  
+
 [Category Theory](https://www.youtube.com/playlist?list=PLCTMeyjMKRkoS699U0OJ3ymr3r01sI08l)   
-[homotopy.io](https://beta.homotopy.io)
+[homotopy.io](https://beta.homotopy.io)  
+~ Richard Southwell  
 
-Bob Coecke - Picturing Quantum Processes  
-[Picturing Quantum Processes](https://www.youtube.com/@OxfordQuantumVideo/search?query=Picturing%20Quantum%20Processes)
+[Picturing Quantum Processes](https://www.youtube.com/@OxfordQuantumVideo/search?query=Picturing%20Quantum%20Processes)  
+~ Bob Coecke  
+
