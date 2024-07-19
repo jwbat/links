@@ -1,4 +1,8 @@
 
-.github-corner {
+.btn {
     display: none;
+}
+
+body {
+  background: #ccc;
 }
