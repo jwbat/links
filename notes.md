@@ -1,3 +1,8 @@
+---
+layout: default
+title: Notes
+---
+
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/styles.css">
 
 #### Notes

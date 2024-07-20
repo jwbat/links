@@ -1,7 +1,5 @@
-title: Links
 author: james
 baseurl: "/links"
 include:
   - styles.css
 permalink: pretty
-cache_buster: 20240719
