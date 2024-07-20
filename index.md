@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 
-[Notes](notes.html)
+[Notes](notes.md)
 
 [Markdown Guide](https://www.markdownguide.org)  
 
