@@ -1,5 +1,4 @@
 author: james
-title: Links
 baseurl: "/links"
 include:
   - styles.css
