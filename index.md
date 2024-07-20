@@ -1,7 +1,5 @@
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/styles.css">
 
-# Links
-
 [Markdown Guide](https://www.markdownguide.org)  
 
 [Fred Baptiste](https://www.youtube.com/@mathbyteacademy)  
