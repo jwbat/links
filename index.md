@@ -1,6 +1,6 @@
-<link rel="stylesheet" type="text/css" href="styles.css">
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/styles.css">
 
-[Notes](notes.md)
+[Notes]({{ site.baseurl }}/notes.html)
 
 [Markdown Guide](https://www.markdownguide.org)  
 

@@ -1,5 +1,6 @@
 title: Links
 author: james
+baseurl: "/links"
 include:
   - styles.css
 permalink: pretty
