@@ -2,8 +2,8 @@
 
 [Markdown Guide](https://www.markdownguide.org)  
 
-[MathBytes, Fred Baptiste](https://www.youtube.com/@mathbyteacademy)  
-Python, Math  
+[MathBytes](https://www.youtube.com/@mathbyteacademy)  
+~ Fred Baptiste
 
 [Category Theory](https://www.youtube.com/playlist?list=PLCTMeyjMKRkoS699U0OJ3ymr3r01sI08l)   
 [homotopy.io](https://beta.homotopy.io)  
