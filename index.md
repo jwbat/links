@@ -1,7 +1,5 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 
-### Links
-
 [Notes](notes.md)
 
 [Markdown Guide](https://www.markdownguide.org)  
