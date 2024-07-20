@@ -1,4 +1,4 @@
-html {
+html p {
   font-family: Palatino, Optima, Georgia, Helvetica, Arial, sans-serif !important;
 }
 
@@ -19,11 +19,11 @@ h3 {
 
 a {
   font-size: 1.3rem;
-  color: #cbe896;
+  color: #ddd92a;
   text-decoration: none;
 }
 
 a:hover {
-  color: #ddd92a;
+  color: #cbe896;
   text-decoration: none;
 }
