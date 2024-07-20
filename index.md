@@ -1,11 +1,6 @@
----
-layout: default
-title: Links
----
-
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/styles.css">
 
-[Notes]({{ site.baseurl }}/notes.html)
+***
 
 [Markdown Guide](https://www.markdownguide.org)  
 
