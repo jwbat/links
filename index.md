@@ -6,8 +6,9 @@
 ~ Fred Baptiste
 
 [Category Theory](https://www.youtube.com/playlist?list=PLCTMeyjMKRkoS699U0OJ3ymr3r01sI08l)   
-[homotopy.io](https://beta.homotopy.io)  
 ~ Richard Southwell  
+
+[homotopy.io](https://beta.homotopy.io)  
 
 [Picturing Quantum Processes](https://www.youtube.com/@OxfordQuantumVideo/search?query=Picturing%20Quantum%20Processes)  
 ~ Bob Coecke  
