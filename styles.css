@@ -3,9 +3,10 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  margin-left: 10%;
+  margin-left: 5%;
   font-size: 1.15rem;
   color: #ebebd3;
+  font-family: Palatino, Optima, Georgia, Helvetica, Arial, sans-serif;
 }
 
 h3 {
