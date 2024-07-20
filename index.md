@@ -2,7 +2,7 @@
 
 [Markdown Guide](https://www.markdownguide.org)  
 
-[Fred Baptiste](https://www.youtube.com/@mathbyteacademy)  
+[MathBytes, Fred Baptiste](https://www.youtube.com/@mathbyteacademy)  
 Python, Math  
 
 [Category Theory](https://www.youtube.com/playlist?list=PLCTMeyjMKRkoS699U0OJ3ymr3r01sI08l)   
