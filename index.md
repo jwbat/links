@@ -13,6 +13,6 @@
 [Picturing Quantum Processes](https://www.youtube.com/@OxfordQuantumVideo/search?query=Picturing%20Quantum%20Processes)  
 ~ Bob Coecke  
 
-[Programming Cafe](https://bartoszmilewski.com)
+[Programming Cafe](https://bartoszmilewski.com)  
 ~ Bartosz Milewski  
 
